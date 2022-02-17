@@ -1,5 +1,16 @@
 # Next.JS
 
+## Goal: Complete the tutorial found [HERE](https://nextjs.org/learn/basics/navigate-between-pages/client-side) by adding each detailed step to this README.md as seen below AS WELL AS actually implementing each step you add to the README.md.
+
+## This repository is for anyone trying to practice and learn NextJS while collaborating with others and earning those contributions that hiring teams look for!!! To make a contribution, please follow these steps:
+
+## Making a contribution (PLEASE ADD TO THIS IF YOU HAVE BETTER INSTRUCTIONS!)
+1. Fork the repo
+2. Make changes (consider starting with small changes) that get our team closer to the goal: Completing the tutorial and deploying a NextJS React App! 
+3. Create Pull Request and wait for an admin to verify the changes and merge the request. 
+
+# NextJS React App Tutorial:
+
 ## Getting Started
 Run the following commands in your terminal
 ```
